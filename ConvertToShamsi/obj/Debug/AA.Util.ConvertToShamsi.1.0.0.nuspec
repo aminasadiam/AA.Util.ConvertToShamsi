@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AA.Util.ConvertToShamsi</id>
+    <version>1.0.0</version>
+    <authors>Amin Asadi</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library for convert date to persian calender</description>
+    <tags>calender, convertor, date convertor, persian, farsi, persian calender, shamsi</tags>
+    <repository url="https://github.com/aminasadiam/AA.Util.ConvertToShamsi" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\bin\Debug\net5.0\ConvertToShamsi.dll" target="lib\net5.0\ConvertToShamsi.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>AA.Util.ConvertToShamsi</PackageId>
+    <Authors>Amin Asadi</Authors>
+    <Description>Library for convert date to persian calender</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/aminasadiam/AA.Util.ConvertToShamsi</RepositoryUrl>
+    <PackageTags>calender, convertor, date convertor, persian, farsi, persian calender, shamsi</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

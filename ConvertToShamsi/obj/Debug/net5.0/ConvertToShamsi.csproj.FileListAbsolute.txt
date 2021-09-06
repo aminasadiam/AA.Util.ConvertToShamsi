@@ -1,0 +1,12 @@
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\bin\Debug\net5.0\ConvertToShamsi.deps.json
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\bin\Debug\net5.0\ConvertToShamsi.dll
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\bin\Debug\net5.0\ref\ConvertToShamsi.dll
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\bin\Debug\net5.0\ConvertToShamsi.pdb
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.csproj.AssemblyReference.cache
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.AssemblyInfoInputs.cache
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.AssemblyInfo.cs
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.csproj.CoreCompileInputs.cache
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.dll
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ref\ConvertToShamsi.dll
+C:\Users\amina\source\repos\ConvertToShamsi\ConvertToShamsi\obj\Debug\net5.0\ConvertToShamsi.pdb
